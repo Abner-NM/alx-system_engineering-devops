@@ -7,3 +7,4 @@ Script 3: 3-listfiles - Display current directory contents in a long format
 Script 4: 4-listmorefiles - Display current directory contents, including hidden files (starting with .). Use the long format
 Script 5: 5-listfilesdigitonly - Display current directory contents:Long format, with user and group IDs displayed numerically and hidden files (starting with .)
 Script 6: 6-firstdirectory - Create a script that creates a directory named my_first_directory in the /tmp/ directory
+Script 7: 7-movethatfile - Move the file betty from /tmp/ to /tmp/my_first_directory
