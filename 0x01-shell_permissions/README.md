@@ -13,3 +13,4 @@ This README will provide detail about the 0x01-shell_permissions scripts
 8. Script 8: 8-James_Bond - sets the permission to the file hello as follows: owner: no permission at all; Group: no permission at all; and Other users: all the permissions
 9. Script 9: 9-John_Doe - script that sets the mode of the file hello to this: -rwxr-x-wx
 10. Script 10: 10-mirror_permissions - sets the mode of the file hello the same as olleh’s mode
+11. Script 11: 11-directories_permissions - dds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users. Regular files should not be changed.
