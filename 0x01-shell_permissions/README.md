@@ -15,3 +15,4 @@ This README will provide detail about the 0x01-shell_permissions scripts
 10. Script 10: 10-mirror_permissions - sets the mode of the file hello the same as olleh’s mode
 11. Script 11: 11-directories_permissions - dds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users. Regular files should not be changed
 12. Script 12: 12-directory_permissions - creates a directory called my_dir with permissions 751 in the working directory
+13. Script 13: 13-change_group - changes the group owner to school for the file hello
