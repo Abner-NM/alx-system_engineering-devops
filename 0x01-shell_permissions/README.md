@@ -9,3 +9,4 @@ This README will provide detail about the 0x01-shell_permissions scripts
 4. Script 4: 4-empty - creates an empty file called hello
 5. Script 5: 5-execute - adds execute permission to the owner of the file hello in the working directory
 6. Script 6: 6-multiple_permissions - adds execute permission to the owner and the group owner, and read permission to other users, to the file hello
+7. Script 7: 7-everybody - adds execution permission to the owner, the group owner and the other users, to the file hello
