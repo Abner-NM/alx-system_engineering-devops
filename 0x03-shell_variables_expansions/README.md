@@ -11,3 +11,6 @@
 6. Script 6: 6-create_local_variable - creates a new local variable
    * Name: BEST
    * Value: School
+7. Script 7: 7-create_global_variable - creates a new local variable
+   * Name: BEST
+   * Value: School
