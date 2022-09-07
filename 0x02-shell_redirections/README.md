@@ -40,3 +40,6 @@
 	* One file name per line
 	* The listing should end with a new line
 	* You are not allowed to use basename, grep, egrep, fgrep or rgrep
+25. Script 25: 102-acrostic - script that decodes [acrostics](https://en.wikipedia.org/wiki/Acrostic) that use the first letter of each line
+	* The ‘decoded’ message has to end with a new line
+	* You are not allowed to use grep, egrep, fgrep or rgrep
