@@ -34,3 +34,4 @@
 14. Script 14: 100-decimal_to_hexadecimal - Write a script that converts a number from base 10 to base 16.
     * The number in base 10 is stored in the environment variable DECIMAL
     * The script should display the number in base 16, followed by a new line
+15. Script 15: 101-rot13 - encodes and decodes text using the rot13 encryption. Assume ASCII
