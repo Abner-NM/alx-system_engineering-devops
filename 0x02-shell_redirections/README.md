@@ -43,3 +43,6 @@
 25. Script 25: 102-acrostic - script that decodes [acrostics](https://en.wikipedia.org/wiki/Acrostic) that use the first letter of each line
 	* The ‘decoded’ message has to end with a new line
 	* You are not allowed to use grep, egrep, fgrep or rgrep
+26. Script 26: 103-the_biggest_fan - parses web servers logs in TSV format as input and displays the 11 hosts or IP addresses which did the most requests.
+	* Order by number of requests, most active host or IP at the top
+	* You are not allowed to use grep, egrep, fgrep or rgrep
