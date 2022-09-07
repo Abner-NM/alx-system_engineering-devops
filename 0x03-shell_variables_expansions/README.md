@@ -35,3 +35,4 @@
     * The number in base 10 is stored in the environment variable DECIMAL
     * The script should display the number in base 16, followed by a new line
 15. Script 15: 101-rot13 - encodes and decodes text using the rot13 encryption. Assume ASCII
+16. Script 16: 102-odd - prints every other line from the input, starting with the first line
